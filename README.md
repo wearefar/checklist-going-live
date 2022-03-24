@@ -7,11 +7,11 @@ The checklist that is used when a site is going live
 - [] 
 - [] 
 
-# Meta
+## Meta
 - [] title & meta description
 - [] Open graph w/ image
 - [] 
 
-# a11y
+## a11y
 - [] Run Firefox diagnostic
 - [] 
