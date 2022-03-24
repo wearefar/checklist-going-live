@@ -2,26 +2,26 @@
 The checklist that is used when a site is going live
 
 ## Frontend
-- [] Minified assets
-- [] Layout is preserved after PurgeCSS 
-- [] Remove all `console.log` lines in scripts
-- [] Favicon
-- [] 
+- [ ] Minified assets
+- [ ] Layout is preserved after PurgeCSS 
+- [ ] Remove all `console.log` lines in scripts
+- [ ] Favicon
+- [ ] 
 
 ## Meta
-- [] title & meta description
-- [] Open graph w/ image
-- [] 
+- [ ] title & meta description
+- [ ] Open graph w/ image
+- [ ] 
 
 ## a11y
-- [] Run Firefox diagnostic
-- [] 
+- [ ] Run Firefox diagnostic
+- [ ] 
 
 ## Server
-- [] SSL certificate installed
-- [] Check http redirects to https
-- [] 
+- [ ] SSL certificate installed
+- [ ] Check http redirects to https
+- [ ] 
 
 ## Services
-- [] Analytics is running in production
-- [] GDPR & cookies
+- [ ] Analytics is running in production
+- [ ] GDPR & cookies
