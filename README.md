@@ -9,7 +9,7 @@ The checklist that is used when a site is going live
 - [ ] ...
 
 ## Meta
-- [ ] title & meta description
+- [ ] Title & meta description
 - [ ] Open graph w/ image
 - [ ] Favicon
 - [ ] ...
