@@ -6,7 +6,12 @@ The checklist that is used when a site is going live
 - [ ] Layout is preserved after PurgeCSS 
 - [ ] Remove all `console.log` lines in scripts
 - [ ] 404 template
+
+## Images
 - [ ] Images are optimized
+- [ ] Use webp whenever possible
+- [ ] Provide width and heigth for `img` elements whenever possible
+- [ ] ...
 
 ## Meta
 - [ ] Title & meta description
