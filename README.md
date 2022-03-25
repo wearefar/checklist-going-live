@@ -6,6 +6,7 @@ The checklist that is used when a site is going live
 - [ ] Layout is preserved after PurgeCSS 
 - [ ] Remove all `console.log` lines in scripts
 - [ ] 404 template
+- [ ] Use `font-dispay: swap` when possible
 
 ## Images
 - [ ] Images are optimized
