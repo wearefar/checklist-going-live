@@ -10,8 +10,8 @@ The checklist that is used when a site is going live
 
 ## Images
 - [ ] Images are optimized
-- [ ] Use webp whenever possible
-- [ ] Provide width and heigth for `img` elements whenever possible
+- [ ] Use `webp` whenever possible
+- [ ] Provide `width` and `heigth` for `img` elements whenever possible
 - [ ] Provide `srcset` whenever necessary
 - [ ] ...
 
