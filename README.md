@@ -22,7 +22,7 @@ The checklist that is used when a site is going live
 - [ ] ...
 
 ## a11y
-- [ ] Run Firefox diagnostic
+- [ ] Run Firefox diagnostic and solve all detected issues
 - [ ] SVGs have title or role presentation
 - [ ] ...
 
