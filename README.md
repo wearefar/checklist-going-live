@@ -18,6 +18,7 @@ The checklist that is used when a site is going live
 - [ ] Title & meta description
 - [ ] Open graph w/ image
 - [ ] Favicon
+- [ ] Provide `rel="alternate"` and `hreflang` attributes for multilingual sites
 
 ## a11y
 - [ ] Run Firefox diagnostic and solve all detected issues
