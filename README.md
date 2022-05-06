@@ -13,18 +13,20 @@ The checklist that is used when a site is going live
 - [ ] Use `webp` whenever possible
 - [ ] Provide `width` and `heigth` for `img` elements whenever possible
 - [ ] Provide `srcset` whenever necessary
-- [ ] ...
 
 ## Meta
 - [ ] Title & meta description
 - [ ] Open graph w/ image
 - [ ] Favicon
-- [ ] ...
 
 ## a11y
 - [ ] Run Firefox diagnostic and solve all detected issues
 - [ ] SVGs have title or role presentation
-- [ ] ...
+- [ ] Buttons have and accessible name
+- [ ] Image elements have `alt` attributes
+- [ ] Links have a discernible name
+- [ ] Sufficient contrast ratio is desirable
+- [ ] Test keyboard navigation and fix all detected issues
 
 ## Server
 - [ ] SSL certificate installed
@@ -33,10 +35,8 @@ The checklist that is used when a site is going live
 - [ ] Setup browser cache nginx/apache
 - [ ] Redirect old urls if necessary
 - [ ] Ensure no mixed content
-- [ ] ...
 
 ## Services
 - [ ] Analytics is running in production
 - [ ] GDPR & cookies
 - [ ] Setup google search console
-- [ ] ...
