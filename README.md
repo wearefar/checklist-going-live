@@ -37,8 +37,8 @@ The checklist that is used when a site is going live
 - [ ] Redirect old urls if necessary
 - [ ] Ensure no mixed content
 
-## SEO and Analytics
+## SEO and analytics
 - [ ] Analytics is running in production
 - [ ] GDPR & cookies
-- [ ] Setup google search console
+- [ ] Setup Google Search Console
 - [ ] Provide a `sitemap.xml`
